@@ -5,7 +5,7 @@
   - Сеченовский Университет (лечебное дело): 27/07/19 
   - Институт хирургии Вишневского (ординатура): 08/21 - Рентгенология.
   - Skillfactory: курс "профессия Data Scientist" - 2023
-* работаю рентгенологом
+* :hospital: работаю рентгенологом
 *  пишу диссертацию по применению глубокого машинного обучения в сегментации медицинских изображений (КТ, МРТ)
 * ищу помощь серди более опытных специалистов в сфере ML
 * готова быть участником подобного проекта
@@ -38,7 +38,7 @@
  - Sechenovo University (medical): 27/07/19 
   - Vishnevsky Institute of Surgery (residency): 08/21 - Radiology.
   - Skillfactory: Course "Professional Data Scientist" - 2023
-* Working as a radiologist
+* :hospital: working as a radiologist
 *  writing my thesis on the application of deep machine learning in medical image segmentation (CT, MRI)
 * looking for help from more experienced specialists in ML
 * ready to be part of such a project
